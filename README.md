@@ -24,3 +24,10 @@
 ```
 ### 权重文件获取链接
 * （1）alexnet网络训练得到权重文件：[AlexNet.pth](https://drive.google.com/file/d/1qyTeYHcE2Ybm5xCh3b5Zf4MxyHjknLC2/view?usp=sharing)
+### 信息及维护时间：
+```
+作者：林飞
+创建：2022-05-17
+更新：2022-05-22
+目的：使用alexnet网络对Masked-Face-Dataset数据集进行训练，完成图像分类任务（是否带帽子）。
+```
